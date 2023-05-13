@@ -1,5 +1,3 @@
-% Copyright (c) 2018 Bogdan Dumitrescu <bogdan.dumitrescu@acse.pub.ro>
-% 
 % Permission to use, copy, modify, and/or distribute this software for any
 % purpose with or without fee is hereby granted, provided that the above
 % copyright notice and this permission notice appear in all copies.
@@ -24,8 +22,6 @@ function [X, shared] = omp_mask(Y, D, s, shared, varargin)
 %
 % Output:
 %   X     - sparse representations
-
-% BD 10.04.2018
 
 [~,N] = size(Y);
 

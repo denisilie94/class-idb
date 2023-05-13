@@ -11,7 +11,6 @@ function [X, shared] = omp_ker(K, Kz, A, s, shared, varargin)
 % Output:
 %   X       - sparse representations
 
-% BD 22.12.2017
 
     if isempty(varargin)
         ompparams = {'checkdict', 'off'};
