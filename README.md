@@ -10,7 +10,7 @@ We demonstrate on several datasets that this function can improve the performanc
 This represents the main resources necessary for reproducing the results presented in “Classification with dictionary learning and a distance barrier promoting incoherence”, by Denis C. Ilie Ablachim, and Bogdan Dumitrescu. If you use our work please cite the following paper
 
 ```
-@inproceedings{ilie2023sparse,
+@inproceedings{class-idb,
   title={Classification with dictionary learning and a distance barrier promoting incoherence},
   author={Ilie-Ablachim, Denis C and Dumitrescu, Bogdan},
   booktitle={33rd IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2023)},
